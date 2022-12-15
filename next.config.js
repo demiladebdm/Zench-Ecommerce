@@ -8,7 +8,8 @@ const nextConfig = {
         "PAYPAL_CLIENT_ID": "ARmDyr9itwE4AkM7msQPyUYC1my0P7Py6xPXBa07fIc9eLmhgM5tl6h9UqwegpbcqQZEdroBd6K5YZWz",
         "CLOUD_UPDATE_PRESET": "zench_next",
         "CLOUD_NAME": "dppsrg96q",
-        "CLOUD_API": "https://api.cloudinary.com/v1_1/dppsrg96q/image/upload"
+        "CLOUD_API": "https://api.cloudinary.com/v1_1/dppsrg96q/image/upload",
+        "NEXT_PUBLIC_ANALYTICS_ID": "123"
     }
 }
 
